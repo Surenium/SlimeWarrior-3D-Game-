@@ -2144,7 +2144,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8.046997, y: 0}
+  m_AnchoredPosition: {x: -8.047058, y: 0}
   m_SizeDelta: {x: -939.884, y: -244.628}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &137684992
@@ -2228,7 +2228,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8.046997, y: 0}
+  m_AnchoredPosition: {x: -8.047058, y: 0}
   m_SizeDelta: {x: -939.884, y: -244.628}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &141790923
@@ -6603,7 +6603,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8.046997, y: 0}
+  m_AnchoredPosition: {x: -8.047058, y: 0}
   m_SizeDelta: {x: -939.884, y: -244.628}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &409668277
@@ -9642,7 +9642,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8.046997, y: 0}
+  m_AnchoredPosition: {x: -8.047058, y: 0}
   m_SizeDelta: {x: -939.884, y: -244.628}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &591578486
@@ -23198,7 +23198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1453559014}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.33, y: 7.2699995, z: -7.75}
+  m_LocalPosition: {x: -5.85, y: 7.2699995, z: 1.62}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23219,7 +23219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerOffset: -8
   player: {fileID: 1518331}
-  rotateSpeed: 1000
+  rotateSpeed: 500
   followSpeed: 10
   minPitch: 20
   maxPitch: 80
