@@ -4,6 +4,15 @@
 
 Collect All the Coins to Win
 
+## Highlighted Features
+
+- Sword Attack
+- Health Bar
+- Enemy Health Bar
+- Enemy Attack
+- Coin Counter
+- Custom Win, Lose, Pause and Start Menu
+
 ## Screenshots
 
 ![GamePlay](https://raw.githubusercontent.com/Surenium/SlimeWarrior-3D-Game-/main/ScreenshotSlimeWarrior/Screenshot%202023-04-11%20204947.png)
